@@ -1,2 +1,0 @@
-# About
-Documentación sobre LaPropina
