@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  color: #333;
+  background-color: #fafafa;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+header {
+  background-color: #e0e0e0;
+  padding: 1rem;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  border-bottom: 1px solid #ccc;
+  z-index: 1000;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+nav a {
+  text-decoration: none;
+  color: #333;
+  font-weight: bold;
+}
+
+main {
+  max-width: 800px;
+  margin: 6rem auto 2rem auto;
+  padding: 0 1rem;
+}
+
+h1, h2 {
+  color: #222;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  font-size: 0.9rem;
+  color: #777;
+}
